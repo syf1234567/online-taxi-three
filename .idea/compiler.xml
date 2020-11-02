@@ -8,12 +8,18 @@
         <outputRelativeToContentRoot value="true" />
         <module name="api-passenger" />
         <module name="cloud-eureka" />
+        <module name="internal-common" />
+        <module name="service-sms" />
+        <module name="service-verification-code" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="api-passenger" target="1.8" />
-      <module name="cloud-eureka" target="11" />
+      <module name="cloud-eureka" target="10" />
+      <module name="internal-common" target="1.8" />
       <module name="online-taxi-three" target="1.5" />
+      <module name="service-sms" target="1.8" />
+      <module name="service-verification-code" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

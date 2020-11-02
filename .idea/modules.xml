@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/api-passenger/api-passenger.iml" filepath="$PROJECT_DIR$/api-passenger/api-passenger.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-eureka/cloud-eureka.iml" filepath="$PROJECT_DIR$/cloud-eureka/cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/internal-common/internal-common.iml" filepath="$PROJECT_DIR$/internal-common/internal-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/online-taxi-three.iml" filepath="$PROJECT_DIR$/online-taxi-three.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-sms/service-sms.iml" filepath="$PROJECT_DIR$/service-sms/service-sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-verification-code/service-verification-code.iml" filepath="$PROJECT_DIR$/service-verification-code/service-verification-code.iml" />
     </modules>
   </component>
 </project>
